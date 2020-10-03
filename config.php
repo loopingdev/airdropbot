@@ -12,7 +12,7 @@ return [
 	/**
 	 * Bot's extended name/title
 	 */
-	'bot_title' => 'BULKDDROP',
+	'bot_title' => 'Mantis Bet Token',
 	/**
 	 * Array of users which will have admin access to bot's private chat
 	 */
@@ -47,11 +47,11 @@ return [
 	 *
 	 * Token name
 	 */
-	'token_name' => 'BULK',
+	'token_name' => 'MantisBet',
 	/**
 	 * Tokens count, which user will get after complete campaign goals
 	 */
-	'campaign_complete_reward_tokens_count' => 125,
+	'campaign_complete_reward_tokens_count' => 1000,
 	'referrer_invite_reward_tokens_count' => 25,
 	/**
 	 * Telegram group which user need to join after campaign start
@@ -72,7 +72,7 @@ return [
 	/**
 	 * Link to support contacts
 	 */
-	'support_link' => '@imskaa',
+	'support_link' => '@hadrovns',
 	/**
 	 * Max open campaigns count. After reaching this point - campaigns for new users will not start
 	 */
