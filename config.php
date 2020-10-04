@@ -8,7 +8,7 @@ return [
 	/**
 	 * Bot's username without @ symbol
 	 */
-	'bot_username' => 'bulkdrop_bot',
+	'bot_username' => 'MantisBet_bot',
 	/**
 	 * Bot's extended name/title
 	 */
@@ -32,7 +32,7 @@ return [
 		'port'     => 3306,
 		'user'     => '',
 		'password' => '',
-		'database' => '',
+		'database' => 'Jancok123$',
 	],
 	/**
 	 * Enable or disable logs (/app/logs dir needs to be at least 755 accesses)
