@@ -49,7 +49,7 @@ class SupportCommand extends UserCommand
 		
 		$text .= 'If you need help ☎️, ask in our group: ' . CatBot::app()->config->get('support_link');
 		$text .= PHP_EOL;
-		$text .= 'This bot made by @imskaa';
+		$text .= 'This bot made by @hadrovns';
 		$data = [
 			'chat_id' => $chat_id,
 			'text' => $text,

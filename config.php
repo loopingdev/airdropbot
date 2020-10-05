@@ -17,8 +17,8 @@ return [
 	 * Array of users which will have admin access to bot's private chat
 	 */
 	'bot_admins' =>[
-		872000561,
-		940829080
+		886461620,
+		976315864
 	],
 	/**
 	 * Webhook url. Not needed if you will use any of getUpdates() method
