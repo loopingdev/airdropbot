@@ -56,23 +56,23 @@ return [
 	/**
 	 * Telegram group which user need to join after campaign start
 	 */
-	'telegram_group_to_follow_id' => '-1001187739904',
-	'telegram_group_to_follow_link_url' => 'https://t.me/joinchat/OBPpmBVfHEwtVFNUP1T1Ng',
+	'telegram_group_to_follow_id' => '-1001237049918',
+	'telegram_group_to_follow_link_url' => 'https://t.me/mantisbet',
 	/**
 	 * Telegram channel which user need to join after campaign start
 	 */
-	'telegram_channel_to_follow_id' => '-1001469884526',
-	'telegram_channel_to_follow_link_url' => 'https://t.me/bulkheadcoin',
+	'telegram_channel_to_follow_id' => '-1001344610790',
+	'telegram_channel_to_follow_link_url' => 'https://t.me/mantisbetting',
 	/**
 	 * Link to twitter profile which lase tweet user must to retweet
 	 */
-	'twitter_profile_url' => 'https://twitter.com/BulkPlatform',
-	'instagram_profile_url' => 'https://instagram.com/bulkheadplatform',
-	'website_profile_url' => 'https://www.bulkplatform.com',
+	'twitter_profile_url' => 'https://twitter.com/MantisBetting',
+	'instagram_profile_url' => 'https://instagram.com/MantisBetting',
+	'website_profile_url' => 'https://mantisbetting.gg',
 	/**
 	 * Link to support contacts
 	 */
-	'support_link' => '@hadrovns',
+	'support_link' => '@maurerlee',
 	/**
 	 * Max open campaigns count. After reaching this point - campaigns for new users will not start
 	 */
